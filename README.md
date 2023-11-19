@@ -60,3 +60,10 @@ number of views. It uses a simple footer to indicate the author and publication 
 Navbar Component:-
 The `Navbar` component renders the application's navigation bar. It uses a simple black background
 with white text and a button to navigate to the Courses section.
+
+Submitted by:-
+
+Phone no:- 9398473067
+Email adress:- pavanbada2001@gmail.com
+college:- Lovely Professional University
+college id:- 12018372
