@@ -16,6 +16,7 @@ generation
 - HTML: The markup language for defining the structure and content of web pages
 - CSS: The style sheet language for controlling the appearance of web pages
 Preview:-
+
 ![image](https://github.com/Pavanbada/TTT/assets/128687789/5eba8e79-2bb1-44b8-90ec-bb16dbe1f179)
 
 Usage:-
