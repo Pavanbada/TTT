@@ -68,3 +68,10 @@ Navbar Component:-
 
 The `Navbar` component renders the application's navigation bar. It uses a simple black background
 with white text and a button to navigate to the Courses section.
+
+About:-
+
+Submitted by 
+- Name : pavan bada 
+- phone number : 9398473067
+- Email : pavanbada2001@gamil.com
