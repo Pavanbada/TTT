@@ -10,7 +10,7 @@ Key Features:-
 - Detailed information for each post, including title, body, author, date, and view count
 - A navigation bar with a link to the Courses section
 - Responsive design that adapts seamlessly to different screen sizes
-- 
+
 Technologies Used:-
 - React: The core JavaScript library for building user interfaces
 - Next.js: A framework that extends React's capabilities, enabling server-side rendering and static site
